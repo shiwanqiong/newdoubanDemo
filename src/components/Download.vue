@@ -18,7 +18,6 @@
     text-align: center;
     font-size: 1.5rem;
   }
-
   .info {
     margin: 0 auto 1.5rem;
     overflow: hidden;
